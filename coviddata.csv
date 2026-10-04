@@ -1,0 +1,16 @@
+Age,(All),,,,,,,,,,,,,
+Other IDs,(All),,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Column Labels,,,,,,,,,,,,,
+,Enrolling by invitation,,Enrolling by invitation Count of Study Results,Enrolling by invitation Sum of Enrollment,Not yet recruiting,,Not yet recruiting Count of Study Results,Not yet recruiting Sum of Enrollment,Recruiting,,Recruiting Count of Study Results,Recruiting Sum of Enrollment,Total Count of Study Results,Total Sum of Enrollment
+,Male,,,,Male,,,,Male,,,,,
+Row Labels,Count of Study Results,Sum of Enrollment,,,Count of Study Results,Sum of Enrollment,,,Count of Study Results,Sum of Enrollment,,,,
+NCT04473352,,,,,1,80,1,80,,,,,1,80
+Observational,,,,,1,80,1,80,,,,,1,80
+NCT04530500,1,200,1,200,,,,,,,,,1,200
+Observational,1,200,1,200,,,,,,,,,1,200
+NCT04716179,,,,,,,,,1,88,1,88,1,88
+Interventional,,,,,,,,,1,88,1,88,1,88
+NCT04717011,,,,,,,,,1,100,1,100,1,100
+Observational,,,,,,,,,1,100,1,100,1,100
+Grand Total,1,200,1,200,1,80,1,80,2,188,2,188,4,468
